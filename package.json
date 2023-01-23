@@ -17,4 +17,7 @@
   },
   "homepage": "https://github.com/Nizar-dev-QA/mjson#readme",
   "description": ""
-}
+},
+"publishConfig": {
+  "registry": "https://npm.pkg.github.com"
+},
